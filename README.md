@@ -18,8 +18,8 @@ python3 GephiPY.py
 
 # ![visualization](Images/visualization.PNG)
 # ![Colors](Images/Colors.png)
-# ![Nodes](Images/Nodes.png)
-# ![Edges](Images/Edges.png)
+# ![Nodes](Images/Nodes.PNG)
+# ![Edges](Images/Edges.PNG)
 
 # ![](https://github.com/Ahmed0or1/GephiPY/blob/main/Images/Capture.PNG?raw=true) 
 ## Resources
