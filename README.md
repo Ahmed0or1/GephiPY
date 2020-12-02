@@ -1,4 +1,4 @@
-# GephiPY
+# GephiPY :rocket:
 
 # ![](Images/GephiPY.png) 
 # Importing csv data in Gephi [The method takes time]
